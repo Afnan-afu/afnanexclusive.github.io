@@ -1,0 +1,35 @@
+{
+    "categories": [
+        {
+          "name": "Phones",
+          "image": "images/Category-CellPhone.svg"
+        },
+        {
+          "name": "Computers",
+          "image": "images/Category-Computer.svg"
+        
+        },
+        {
+          "name": "SmartWatch",
+          "image": "images/Category-SmartWatch.svg"
+        
+        },
+        {
+          "name": "HeadPhones",
+          "image": "images/Category-Headphone.svg"
+        
+        },
+        {
+          "name": "Gaming",
+          "image": "images/Category-Gamepad.svg"
+        
+        },
+        {
+          "name": "Camera",
+          "image": "images/Category-Camera.svg"
+        
+        }
+      
+    ]
+}
+  
